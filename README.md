@@ -27,3 +27,6 @@
 
 - You can read the project requirements at the following url: (https://review.udacity.com/#!/rubrics/18/view)
 
+# How to install
+
+
