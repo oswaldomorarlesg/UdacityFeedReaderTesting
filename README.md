@@ -1,8 +1,8 @@
-# UdacityFeedReaderTesting
+# Feed Reader Testing (Udacity)
 
 **Auther:** Oswaldo Morales
 
 **Date:** Jan 16, 2018
 
 
-Feed Reader Testing (Udacity)
+
