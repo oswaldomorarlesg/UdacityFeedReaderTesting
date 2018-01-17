@@ -41,3 +41,9 @@
 - __XAMPP__
 
 > Open the index.html file in your text editor and run the tests.
+
+#
+
+## Intentional test for code failure
+
+
