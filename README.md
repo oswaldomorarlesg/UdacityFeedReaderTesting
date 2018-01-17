@@ -10,10 +10,10 @@
 
 This project is part of all required tests provided.
 
-- RSS Feed testing
+**- RSS Feed testing
 - RSS Feed properties
 - Menu default state
-- Menu hiding/showing
+- Menu hiding/showing **
 
 Are all provided and are comprehensive enough to adequately test the functionality.
 
