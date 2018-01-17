@@ -30,3 +30,4 @@
 ## How to install
 
 > You  use a modern, open source text editor that understands web design as:
+- Brackets (https://brackets.en.uptodown.com/windows)
