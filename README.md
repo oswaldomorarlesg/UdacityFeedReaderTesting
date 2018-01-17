@@ -45,8 +45,7 @@
 #
 
 > ## Intentional test for code failure
-- __Error Test__ 
-cp /path/to/errortest.jpg
+- __Error Test__ (https://github.com/oswaldomorarlesg/UdacityFeedReaderTesting/blob/master/errortest.JPG)
 
 
 
