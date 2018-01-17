@@ -30,7 +30,7 @@
 ## How to install
 
 ### To install the project follow these steps:
-> Clone this git repository to your working directory (`git clone https://github.com/oswaldomorarlesg/UdacityFeedReaderTesting.git)
+> Clone this git repository to your working directory (https://github.com/oswaldomorarlesg/UdacityFeedReaderTesting.git)
 
 > You  use a modern, open source text editor that understands web design as:
 - __Brackets__ (https://brackets.en.uptodown.com/windows)
