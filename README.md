@@ -45,7 +45,7 @@
 #
 
 > ## Intentional test for code failure
-- __Error Test__ ()
+- __Error Test__ (cp /path/to/errortest.jpg)
 
 
 
