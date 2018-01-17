@@ -44,7 +44,7 @@
 
 #
 
-> ## Intentional test for code failure
+> ## Intentional bugs in code 
 - __Error Test__ (https://github.com/oswaldomorarlesg/UdacityFeedReaderTesting/blob/master/errortest.JPG)
 
 > ## Correct Tests
