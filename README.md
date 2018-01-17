@@ -50,7 +50,16 @@
 > ## Correct Tests
 - I added a new feed variable in ./js/app.js.
 
-### I realized the following tests to meet the project requirements:
+### I performed the following tests to meet the requirements of the project:
+- Test to confirm that the allFeeds objects has been defined and that it is not empty.
+- Test to confirm that  each feed in the allFeeds object and ensures it has a URL defined and that the URL is not empty.
+- Test to confirm that  each feed in the allFeeds object and ensures it has a name defined and that the name is not empty.
+- Test to confirm that ensures the menu element is hidden by default.
+- Test to confirm that ensures the menu changes visibility when the menu icon is clicked.
+- Test to  confirm that the loadFeed function is called and completes its work, and there is at least a single .entry element within the   feed container.
+- Test to confirm that the content actually changes when a new feed is loaded by the loadFeed function.
+
+
 
 
 
