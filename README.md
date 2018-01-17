@@ -29,6 +29,9 @@
 
 ## How to install
 
+### To install the project follow these steps:
+> Clone this git repository to your working directory (`git clone https://github.com/oswaldomorarlesg/UdacityFeedReaderTesting.git)
+
 > You  use a modern, open source text editor that understands web design as:
 - __Brackets__ (https://brackets.en.uptodown.com/windows)
 - __Notepad++__ (https://notepad-plus-plus.org)
@@ -36,3 +39,5 @@
 > or create a local webserver as: 
 - __e.g. python -m SimpleHTTPServer__
 - __XAMPP__
+
+> Open the index.html file in your text editor and run the tests.
