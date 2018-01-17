@@ -47,5 +47,11 @@
 > ## Intentional test for code failure
 - __Error Test__ (https://github.com/oswaldomorarlesg/UdacityFeedReaderTesting/blob/master/errortest.JPG)
 
+> ## Correct Tests
+- I added a new feed variable in ./js/app.js.
+
+### I realized the following tests to meet the project requirements:
+
+
 
 
