@@ -31,3 +31,4 @@
 
 > You  use a modern, open source text editor that understands web design as:
 - __Brackets__ (https://brackets.en.uptodown.com/windows)
+- __Notepad++__ (https://notepad-plus-plus.org)
