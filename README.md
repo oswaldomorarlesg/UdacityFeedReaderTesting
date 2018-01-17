@@ -6,7 +6,7 @@
 
 #
 
-# Description
+## Description
 
 > This project is part of all required tests provided.
 
@@ -19,7 +19,7 @@
 
 #
 
-# Project Instruction:
+## Project Instruction:
 
 > In this project, you will be learning about testing with Javascript. Testing is an important part of the development process and many organizations practice a standard known as "test-driven development" or TDD. This is when developers write tests first, before they ever start developing their application .
 
@@ -27,6 +27,6 @@
 
 - You can read the project requirements at the following url: (https://review.udacity.com/#!/rubrics/18/view)
 
-# How to install
+## How to install
 
 
