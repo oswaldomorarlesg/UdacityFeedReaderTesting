@@ -26,6 +26,7 @@
 > Whether you work in an organization that writes tests extensively to inform product development or one that uses tests to encourage iteration, testing has become an essential skill in modern web development. 
 
 - You can read the project requirements at the following url: (https://review.udacity.com/#!/rubrics/18/view)
+- You can read the original repository at the following url: (https://github.com/udacity/frontend-nanodegree-feedreader)
 
 ## How to install
 
